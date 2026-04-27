@@ -85,7 +85,7 @@ wireshark/
 2. **Open Wireshark** and load the PCAP file from the relevant subdirectory
 3. **Read the lab README** for background context and the list of questions
 4. **Follow the Wireshark filter instructions** given for each question
-5. **Open the `.docx` report** to see full analysis with screenshot placeholders — insert your own screenshots as you work through the lab
+5. **Open the `.pdf` report** to see full analysis with screenshot placeholders — insert your own screenshots as you work through the lab
 
 ---
 
@@ -128,7 +128,7 @@ The following filters are used across both labs. Keep this as a handy reference:
 
 ## Report Documents
 
-Each lab includes a fully formatted `.docx` report built with consistent styling:
+Each lab includes a fully formatted `.pdf` report built with consistent styling:
 
 - **Cover block** with case metadata
 - **Network participants table** with IP/MAC/role breakdown
